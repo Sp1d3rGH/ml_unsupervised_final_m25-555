@@ -1,0 +1,1 @@
+Ноутбук содержит решение к соревнованию на Kaggle [Signal types classification](https://www.kaggle.com/competitions/signal-types-classification/overview).
